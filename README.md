@@ -10,8 +10,7 @@ Install Flask using pip if it’s not already installed:
 3. Save the Code
 Save the code in a file. for example, app.py
 4. Run the Application
-Open a terminal or command prompt, navigate to the directory containing app.py, and run the following command:
-# python app.py
+Open a terminal or command prompt, navigate to the directory containing app.py, and run the following command:  python app.py
 
 5. Access the Application
 Once the application is running, it will display a message like:
