@@ -1,4 +1,3 @@
-# Library_Management
 To run this Flask application locally, follow these steps:
 
 1. Install Python
